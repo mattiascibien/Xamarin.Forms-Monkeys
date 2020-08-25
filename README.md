@@ -1,6 +1,8 @@
 Xamarin.Forms-Monkeys
 =====================
 
+This repo contains a modified version of the Xamarin.Forms-Monkeys app that works with Realm as a database backend
+
 Simple list of monkeys (master/detail) in a xamarin.forms application
 
 You can see the [full blog post on the Xamarin blog](http://blog.xamarin.com/meet-xamarin.forms-3-native-uis-1-shared-code-base/) for more details.
